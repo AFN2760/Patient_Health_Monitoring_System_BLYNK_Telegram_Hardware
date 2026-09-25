@@ -14,11 +14,10 @@ An ESP32-based **proposed prototype** for monitoring patient vital signs and sur
 | MQ2 | Gas or smoke detection |
 | MPU6050 | Fall detection |
 | RGB LED and buzzer | Visual and audible alerts |
-| Relay or MOSFET, 12 V fan | Ventilation when gas or smoke is detected |
+| Relay, 5 V fan | Ventilation when gas or smoke is detected |
 
 Additional parts: LED resistors, a fan supply, breadboard, and jumper wires.
 
-## How it is intended to work
 
 
 
