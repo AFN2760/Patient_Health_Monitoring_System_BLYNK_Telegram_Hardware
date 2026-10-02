@@ -10,7 +10,7 @@ An ESP32-based **proposed prototype** for monitoring patient vital signs and sur
 | MAX30102 | Heart rate and SpO₂ |
 | AD8232 | ECG signal |
 | DS18B20 | Body temperature |
-| DHT11 | Ambient temperature and humidity |
+| DHT22 | Ambient temperature and humidity |
 | MQ2 | Gas or smoke detection |
 | MPU6050 | Fall detection |
 | RGB LED and buzzer | Visual and audible alerts |
